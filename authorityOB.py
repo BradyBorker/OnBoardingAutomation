@@ -121,19 +121,3 @@ def setEmailUserFirstLast(emailList, dictionary):
 	
 main()
 
-'''
-jenna.tutein_allm@id.me
-lydia.caines_allm@id.me
-mark.diaz_allm@id.me
-stephanie.fine_allm@id.me
-nigel.gordon_allm@id.me
-tasha.johnson_allm@id.me
-deasha.marcellus_allm@id.me
-mercedes.marshall_allm@id.me
-kiser.merrow_allm@id.me
-amanda.myers_allm@id.me
-jonathan.page_allm@id.me
-al.paul_allm@id.me
-juan.paulino_allm@id.me
-mattison.perez_allm@id.me
-'''
